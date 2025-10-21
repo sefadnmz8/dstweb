@@ -1,0 +1,16 @@
+[13-Oct-2025 00:25:01 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dostgsmcp/public_html/includes/config.php:35) in /home/dostgsmcp/public_html/auth_handler.php on line 41
+[12-Oct-2025 21:28:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/dostgsmcp/public_html/includes/config.php on line 35
+[12-Oct-2025 21:28:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home/dostgsmcp/public_html/includes/config.php on line 36
+[12-Oct-2025 21:28:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home/dostgsmcp/public_html/includes/config.php on line 37
+[13-Oct-2025 00:28:12 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dostgsmcp/public_html/includes/config.php:35) in /home/dostgsmcp/public_html/auth_handler.php on line 41
+[12-Oct-2025 21:28:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/dostgsmcp/public_html/includes/config.php on line 35
+[12-Oct-2025 21:28:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home/dostgsmcp/public_html/includes/config.php on line 36
+[12-Oct-2025 21:28:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /home/dostgsmcp/public_html/includes/config.php on line 37
+[13-Oct-2025 00:28:14 Europe/Istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dostgsmcp/public_html/includes/config.php:35) in /home/dostgsmcp/public_html/auth_handler.php on line 41
+[13-Oct-2025 00:36:23 Europe/Istanbul] Auth Handler Hatası: Geçersiz kod.
+[13-Oct-2025 00:39:25 Europe/Istanbul] Auth Handler Hatası: Geçersiz kod.
+[13-Oct-2025 00:39:26 Europe/Istanbul] Auth Handler Hatası: Geçersiz kod.
+[19-Oct-2025 22:02:02 Europe/Istanbul] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/dostgsmcp/public_html/contact.php on line 16
+[19-Oct-2025 22:02:02 Europe/Istanbul] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/dostgsmcp/public_html/contact.php on line 18
+[19-Oct-2025 22:02:02 Europe/Istanbul] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/dostgsmcp/public_html/contact.php on line 19
+[19-Oct-2025 22:02:02 Europe/Istanbul] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in /home/dostgsmcp/public_html/contact.php on line 20
